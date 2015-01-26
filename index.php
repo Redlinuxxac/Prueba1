@@ -6,5 +6,6 @@
 </head>
 
 <body>
+<div>Hola</div>
 </body>
 </html>
